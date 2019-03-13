@@ -1,3 +1,6 @@
+%% Citation Information
+%Please cite: Shelat, S. (2017). Developing an Integrated Pedestrian Behaviour Model for Office Buildings. (MSc), Delft University of Technology.   
+
 %% Markov Chain Simulator
 function [mc,st,rt,ta,ltp,tm] = mcSimulator_scheduler(P,totalTime,ltpGiven)
 

@@ -1,3 +1,6 @@
+%% Citation Information
+%Please cite: Shelat, S. (2017). Developing an Integrated Pedestrian Behaviour Model for Office Buildings. (MSc), Delft University of Technology.   
+
 %% Tactical Level
 % Uses:
 % 1. checkAvailability
